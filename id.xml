@@ -1,0 +1,253 @@
+
+	<datainfo>
+		<origin>NOAA/NOS/CO-OPS</origin>
+		<disclaimer>
+		Disclaimer: These data are based upon the latest information available as of the date of your request, and may differ from the published tide tables.
+		</disclaimer>
+	<datarange>Daily</datarange>
+		<producttype>Tide Prediction</producttype>
+		<stationname>Chelsea</stationname>
+		<state>MA</state>
+		<stationid>8443725</stationid>
+	
+		<stationtype>Harmonic</stationtype>
+		<BeginDate>20250530 02:04</BeginDate>
+		<EndDate>20250603 18:33</EndDate>
+		
+		<dataUnits>Feet</dataUnits>
+		 
+	<Timezone>LST_LDT</Timezone>
+	<Datum>MLLW</Datum>
+	<IntervalType>High/Low</IntervalType>
+	<data>
+	
+			<item>
+				<date>2025/05/30</date>
+				<day>Fri</day>
+		
+				<time>02:04 AM</time>
+			
+				<pred>11.63</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/05/30</date>
+				<day>Fri</day>
+		
+				<time>08:28 AM</time>
+			
+				<pred>-0.90</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/05/30</date>
+				<day>Fri</day>
+		
+				<time>02:47 PM</time>
+			
+				<pred>9.87</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/05/30</date>
+				<day>Fri</day>
+		
+				<time>08:41 PM</time>
+			
+				<pred>0.67</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/05/31</date>
+				<day>Sat</day>
+		
+				<time>02:59 AM</time>
+			
+				<pred>11.15</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/05/31</date>
+				<day>Sat</day>
+		
+				<time>09:22 AM</time>
+			
+				<pred>-0.45</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/05/31</date>
+				<day>Sat</day>
+		
+				<time>03:43 PM</time>
+			
+				<pred>9.64</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/05/31</date>
+				<day>Sat</day>
+		
+				<time>09:37 PM</time>
+			
+				<pred>0.99</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/01</date>
+				<day>Sun</day>
+		
+				<time>03:55 AM</time>
+			
+				<pred>10.60</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/01</date>
+				<day>Sun</day>
+		
+				<time>10:16 AM</time>
+			
+				<pred>0.02</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/01</date>
+				<day>Sun</day>
+		
+				<time>04:38 PM</time>
+			
+				<pred>9.45</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/01</date>
+				<day>Sun</day>
+		
+				<time>10:35 PM</time>
+			
+				<pred>1.28</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/02</date>
+				<day>Mon</day>
+		
+				<time>04:52 AM</time>
+			
+				<pred>10.03</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/02</date>
+				<day>Mon</day>
+		
+				<time>11:10 AM</time>
+			
+				<pred>0.47</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/02</date>
+				<day>Mon</day>
+		
+				<time>05:35 PM</time>
+			
+				<pred>9.32</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/02</date>
+				<day>Mon</day>
+		
+				<time>11:33 PM</time>
+			
+				<pred>1.51</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/03</date>
+				<day>Tue</day>
+		
+				<time>05:51 AM</time>
+			
+				<pred>9.50</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/03</date>
+				<day>Tue</day>
+		
+				<time>12:04 PM</time>
+			
+				<pred>0.88</pred>
+			
+				<highlow>L</highlow>
+			
+			</item>
+		
+			<item>
+				<date>2025/06/03</date>
+				<day>Tue</day>
+		
+				<time>06:33 PM</time>
+			
+				<pred>9.27</pred>
+			
+				<highlow>H</highlow>
+			
+			</item>
+		
+		</data>
+</datainfo>
